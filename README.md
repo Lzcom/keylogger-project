@@ -71,6 +71,7 @@ python keylogger.py
 This tool is provided for educational and authorized testing only.
 
 -Do not use this software to monitor others without explicit consent.
+
 -Unauthorized usage is illegal and unethical.
 
 Use responsibly in lab environments, red team simulations, or personal testing systems.
